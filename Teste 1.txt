@@ -1,0 +1,13 @@
+Nao consegui solucionar as seguintes questoes: 1,2 e 4.
+
+Questao 3:
+Na declaração das variaveis faltou um ponto e virgula no final;
+Faltou fechar a chave do for;
+A variavel i nao foi declarada;
+faltou o 0 e o ponto e virgula após o return.
+
+
+Questão 5:
+2
+200
+Fim do laco!
